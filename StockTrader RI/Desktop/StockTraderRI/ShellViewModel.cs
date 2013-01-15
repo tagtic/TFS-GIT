@@ -23,5 +23,6 @@ namespace StockTraderRI
     public class ShellViewModel : NotificationObject
     {
         // This is where any view model logic for the shell would go.
+        // small modification to test git-tf
     }
 }
