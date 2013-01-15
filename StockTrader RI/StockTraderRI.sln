@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desktop", "Desktop", "{D88496A8-597C-4383-808B-6DFA83DF1832}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Silverlight", "Silverlight", "{2F4011EA-71F2-4461-A9B1-572EC5486048}"
@@ -68,6 +68,100 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prism.Silverlight.TestSupport", "..\PrismLibrary\Silverlight\Prism.TestSupport\Prism.Silverlight.TestSupport.csproj", "{6B49E97E-944C-40C9-B0C7-369C2B195D98}"
 EndProject
 Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 23
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tagtic.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Silverlight\\StockTraderRI\\StockTraderRI.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName1 = StockTraderRI.sln
+		SccProjectName1 = Silverlight/StockTraderRI
+		SccLocalPath1 = Silverlight\\StockTraderRI
+		SccProjectUniqueName2 = Desktop\\StockTraderRI\\StockTraderRI.csproj
+		SccProjectTopLevelParentUniqueName2 = StockTraderRI.sln
+		SccProjectName2 = Desktop/StockTraderRI
+		SccLocalPath2 = Desktop\\StockTraderRI
+		SccProjectUniqueName3 = Desktop\\StockTraderRI.Infrastructure\\StockTraderRI.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName3 = StockTraderRI.sln
+		SccProjectName3 = Desktop/StockTraderRI.Infrastructure
+		SccLocalPath3 = Desktop\\StockTraderRI.Infrastructure
+		SccProjectUniqueName4 = Desktop\\StockTraderRI.Modules.Market\\StockTraderRI.Modules.Market.csproj
+		SccProjectTopLevelParentUniqueName4 = StockTraderRI.sln
+		SccProjectName4 = Desktop/StockTraderRI.Modules.Market
+		SccLocalPath4 = Desktop\\StockTraderRI.Modules.Market
+		SccProjectUniqueName5 = Desktop\\StockTraderRI.Modules.News\\StockTraderRI.Modules.News.csproj
+		SccProjectTopLevelParentUniqueName5 = StockTraderRI.sln
+		SccProjectName5 = Desktop/StockTraderRI.Modules.News
+		SccLocalPath5 = Desktop\\StockTraderRI.Modules.News
+		SccProjectUniqueName6 = Desktop\\StockTraderRI.Modules.Position\\StockTraderRI.Modules.Position.csproj
+		SccProjectTopLevelParentUniqueName6 = StockTraderRI.sln
+		SccProjectName6 = Desktop/StockTraderRI.Modules.Position
+		SccLocalPath6 = Desktop\\StockTraderRI.Modules.Position
+		SccProjectUniqueName7 = Desktop\\StockTraderRI.Modules.WatchList\\StockTraderRI.Modules.Watch.csproj
+		SccProjectTopLevelParentUniqueName7 = StockTraderRI.sln
+		SccProjectName7 = Desktop/StockTraderRI.Modules.WatchList
+		SccLocalPath7 = Desktop\\StockTraderRI.Modules.WatchList
+		SccProjectUniqueName8 = Desktop\\StockTraderRI.Infrastructure.Tests\\StockTraderRI.Infrastructure.Tests.csproj
+		SccProjectTopLevelParentUniqueName8 = StockTraderRI.sln
+		SccProjectName8 = Desktop/StockTraderRI.Infrastructure.Tests
+		SccLocalPath8 = Desktop\\StockTraderRI.Infrastructure.Tests
+		SccProjectUniqueName9 = Desktop\\StockTraderRI.Modules.Market.Tests\\StockTraderRI.Modules.Market.Tests.csproj
+		SccProjectTopLevelParentUniqueName9 = StockTraderRI.sln
+		SccProjectName9 = Desktop/StockTraderRI.Modules.Market.Tests
+		SccLocalPath9 = Desktop\\StockTraderRI.Modules.Market.Tests
+		SccProjectUniqueName10 = Desktop\\StockTraderRI.Modules.News.Tests\\StockTraderRI.Modules.News.Tests.csproj
+		SccProjectTopLevelParentUniqueName10 = StockTraderRI.sln
+		SccProjectName10 = Desktop/StockTraderRI.Modules.News.Tests
+		SccLocalPath10 = Desktop\\StockTraderRI.Modules.News.Tests
+		SccProjectUniqueName11 = Desktop\\StockTraderRI.Modules.Position.Tests\\StockTraderRI.Modules.Position.Tests.csproj
+		SccProjectTopLevelParentUniqueName11 = StockTraderRI.sln
+		SccProjectName11 = Desktop/StockTraderRI.Modules.Position.Tests
+		SccLocalPath11 = Desktop\\StockTraderRI.Modules.Position.Tests
+		SccProjectUniqueName12 = Desktop\\StockTraderRI.Modules.WatchList.Tests\\StockTraderRI.Modules.Watch.Tests.csproj
+		SccProjectTopLevelParentUniqueName12 = StockTraderRI.sln
+		SccProjectName12 = Desktop/StockTraderRI.Modules.WatchList.Tests
+		SccLocalPath12 = Desktop\\StockTraderRI.Modules.WatchList.Tests
+		SccProjectUniqueName13 = Silverlight\\StockTraderRI.Infrastructure.Silverlight\\StockTraderRI.Infrastructure.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName13 = StockTraderRI.sln
+		SccProjectName13 = Silverlight/StockTraderRI.Infrastructure.Silverlight
+		SccLocalPath13 = Silverlight\\StockTraderRI.Infrastructure.Silverlight
+		SccProjectUniqueName14 = Silverlight\\StockTraderRI.Infrastructure.Silverlight.Tests\\StockTraderRI.Infrastructure.Silverlight.Tests.csproj
+		SccProjectTopLevelParentUniqueName14 = StockTraderRI.sln
+		SccProjectName14 = Silverlight/StockTraderRI.Infrastructure.Silverlight.Tests
+		SccLocalPath14 = Silverlight\\StockTraderRI.Infrastructure.Silverlight.Tests
+		SccProjectUniqueName15 = Silverlight\\StockTraderRI.Modules.Position.Silverlight\\StockTraderRI.Modules.Position.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName15 = StockTraderRI.sln
+		SccProjectName15 = Silverlight/StockTraderRI.Modules.Position.Silverlight
+		SccLocalPath15 = Silverlight\\StockTraderRI.Modules.Position.Silverlight
+		SccProjectUniqueName16 = Silverlight\\StockTraderRI.Modules.Position.Silverlight.Tests\\StockTraderRI.Modules.Position.Silverlight.Tests.csproj
+		SccProjectTopLevelParentUniqueName16 = StockTraderRI.sln
+		SccProjectName16 = Silverlight/StockTraderRI.Modules.Position.Silverlight.Tests
+		SccLocalPath16 = Silverlight\\StockTraderRI.Modules.Position.Silverlight.Tests
+		SccProjectUniqueName17 = Silverlight\\StockTraderRI.Modules.Market.Silverlight\\StockTraderRI.Modules.Market.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName17 = StockTraderRI.sln
+		SccProjectName17 = Silverlight/StockTraderRI.Modules.Market.Silverlight
+		SccLocalPath17 = Silverlight\\StockTraderRI.Modules.Market.Silverlight
+		SccProjectUniqueName18 = Silverlight\\StockTraderRI.Modules.Market.Silverlight.Tests\\StockTraderRI.Modules.Market.Silverlight.Tests.csproj
+		SccProjectTopLevelParentUniqueName18 = StockTraderRI.sln
+		SccProjectName18 = Silverlight/StockTraderRI.Modules.Market.Silverlight.Tests
+		SccLocalPath18 = Silverlight\\StockTraderRI.Modules.Market.Silverlight.Tests
+		SccProjectUniqueName19 = Silverlight\\StockTraderRI.Modules.Watch.Silverlight\\StockTraderRI.Modules.Watch.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName19 = StockTraderRI.sln
+		SccProjectName19 = Silverlight/StockTraderRI.Modules.Watch.Silverlight
+		SccLocalPath19 = Silverlight\\StockTraderRI.Modules.Watch.Silverlight
+		SccProjectUniqueName20 = Silverlight\\StockTraderRI.Modules.Watch.Silverlight.Tests\\StockTraderRI.Modules.Watch.Silverlight.Tests.csproj
+		SccProjectTopLevelParentUniqueName20 = StockTraderRI.sln
+		SccProjectName20 = Silverlight/StockTraderRI.Modules.Watch.Silverlight.Tests
+		SccLocalPath20 = Silverlight\\StockTraderRI.Modules.Watch.Silverlight.Tests
+		SccProjectUniqueName21 = Silverlight\\StockTraderRI.Modules.News.Silverlight\\StockTraderRI.Modules.News.Silverlight.csproj
+		SccProjectTopLevelParentUniqueName21 = StockTraderRI.sln
+		SccProjectName21 = Silverlight/StockTraderRI.Modules.News.Silverlight
+		SccLocalPath21 = Silverlight\\StockTraderRI.Modules.News.Silverlight
+		SccProjectUniqueName22 = Silverlight\\StockTraderRI.Modules.News.Silverlight.Tests\\StockTraderRI.Modules.News.Silverlight.Tests.csproj
+		SccProjectTopLevelParentUniqueName22 = StockTraderRI.sln
+		SccProjectName22 = Silverlight/StockTraderRI.Modules.News.Silverlight.Tests
+		SccLocalPath22 = Silverlight\\StockTraderRI.Modules.News.Silverlight.Tests
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
